@@ -3,6 +3,6 @@
 def introduction (name)
   puts "Hi, my name is #{name}."
 end
-def learning (language)
-  puts "and I am learning to program in #{language}."
+def introduction_with_language (language)
+  puts "and I am learning to program in #{language}"
 end
